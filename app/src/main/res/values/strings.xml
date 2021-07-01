@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Am-I-Dumb</string>
+    <string name="welcome"> Welcome</string>
+    <string name="name">Please enter your name:</string>
+    <string name="start">START</string>
+    <string name="finish">FINISH</string>
+    <string name="QuizApp">Am-I-Dumb</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="result">Result</string>
+    <string name="username">Username</string>
+    <string name="score">Score</string>
+    <string name="nameHint">Name</string>
+</resources>
